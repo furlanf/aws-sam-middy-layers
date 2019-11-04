@@ -1,0 +1,21 @@
+[{
+    "id": 1,
+    "title": "Asparagus",
+    "price": 28.1
+}, {
+    "id": 2,
+    "title": "Cabbage",
+    "price": 29.45
+}, {
+    "id": 3,
+    "title": "Pea",
+    "price": 16.3
+}, {
+    "id": 4,
+    "title": "Lettuce",
+    "price": 17.11
+}, {
+    "id": 5,
+    "title": "Parsley",
+    "price": 5.25
+}]
